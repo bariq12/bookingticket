@@ -1,0 +1,13 @@
+# Go
+bin/
+*.exe
+
+# Node
+node_modules/
+
+# Archive
+*.rar
+*.zip
+
+# OS
+.DS_Store
